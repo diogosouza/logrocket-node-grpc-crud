@@ -1,0 +1,19 @@
+{
+  "name": "logrocket_customers_grpc",
+  "version": "1.0.0",
+  "description": "LogRocket CRUD with gRPC and Node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "author": "Diogo Souza",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.17.1",
+    "grpc": "^1.24.2",
+    "hbs": "^4.1.0",
+    "uuid": "^7.0.2"
+  }
+}
