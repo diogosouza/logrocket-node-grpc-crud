@@ -17,6 +17,6 @@
     "uuid": "^7.0.2"
   },
   "devDependencies": {
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.6"
   }
 }
